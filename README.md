@@ -7,12 +7,12 @@ The website is built to be responisive and look good on different screen sizes.
 * HTML
 * CSS
 * Bootstrap
- * Navbar
- * Button
- * Container
- * Carousel
- * Card
- * Grid System
+  * Navbar
+  * Button
+  * Container
+  * Carousel
+  * Card
+  * Grid System
 * Font Awesome
 
 # Acknowledgement
