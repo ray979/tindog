@@ -1,7 +1,7 @@
 # Tindog 
 This project is a fictional one page website for a fake dating company called Tindog. Tindog's goal is to help dog owners find love for their pets through an online dating app called Tindog which is similiar to Tinder but for dogs.
 
-The website is built to be responisive and look good on different screen sizes. 
+The website is built to be responsive and look good on different screen sizes. 
 
 # Technologies used
 * HTML
