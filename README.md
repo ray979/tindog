@@ -16,4 +16,4 @@ The website is built to be responsive and look good on different screen sizes.
 * Font Awesome
 
 # Acknowledgement
-* Followed tutorial in The Complete 2023 Web Development Bootcamp by Dr. Angela Yu
+* The Complete 2023 Web Development Bootcamp by Dr. Angela Yu
