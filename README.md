@@ -3,6 +3,8 @@ This project is a fictional one page website for a fake dating company called Ti
 
 The website is built to be responsive and look good on different screen sizes. 
 
+**Follow tutorial and challenges in Udemy course, The Complete 2023 Web Development Bootcamp by Dr. Angela Yu**
+
 # Technologies used
 * HTML
 * CSS
