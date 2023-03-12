@@ -19,6 +19,9 @@ The website is built to be responsive and look good on different screen sizes.
 
 ![all-devices-white](https://user-images.githubusercontent.com/81543048/220823300-36cc2963-29e7-47e6-979d-172197fafea3.png)
 
+# Deployment
+https://ray979.github.io/tindog/
+
 # Acknowledgement
 * The Complete 2023 Web Development Bootcamp by Dr. Angela Yu. Check out her course [here](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
